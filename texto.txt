@@ -1,0 +1,12 @@
+Instalamos tres dependencias
+
+npm init--yes(creo package.jason)
+
+npm i express ejs - mate socket.io(motor de plantilla)(para conexion en tiempo real socket.io)
+
+
+pruebo en el navegador: localhost: numero
+
+npm install nodemon - D(instalada como dependencia de desarrollo)
+
+
